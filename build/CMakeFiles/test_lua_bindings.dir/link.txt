@@ -1,1 +1,0 @@
-/usr/bin/cc -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_lua_bindings.dir/tests/test_lua_bindings.c.o CMakeFiles/test_lua_bindings.dir/src/lua_bindings.c.o -o test_lua_bindings  liblua_static.a

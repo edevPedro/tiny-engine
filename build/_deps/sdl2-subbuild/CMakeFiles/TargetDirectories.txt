@@ -1,3 +1,0 @@
-/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/sdl2-subbuild/CMakeFiles/sdl2-populate.dir
-/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/sdl2-subbuild/CMakeFiles/edit_cache.dir
-/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/sdl2-subbuild/CMakeFiles/rebuild_cache.dir
