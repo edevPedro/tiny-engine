@@ -1,0 +1,1 @@
+--out-path /Users/epedro/eCodes/zedia/sistemas-2/build/gladsources/glad_gl --api gl:core=2.1 --reproducible c --loader

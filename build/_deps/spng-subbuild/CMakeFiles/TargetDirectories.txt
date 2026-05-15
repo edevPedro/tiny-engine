@@ -1,0 +1,3 @@
+/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/spng-subbuild/CMakeFiles/spng-populate.dir
+/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/spng-subbuild/CMakeFiles/edit_cache.dir
+/Users/epedro/eCodes/zedia/sistemas-2/build/_deps/spng-subbuild/CMakeFiles/rebuild_cache.dir
